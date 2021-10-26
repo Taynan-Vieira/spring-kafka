@@ -1,10 +1,10 @@
 <h1 align="center">Tutorial Spring-Kafka</h1>
 <p align="center">Este repositório possui dois projetos demonstrando o funcionamento do Spring com o Kafka, um microservice consumidor e um microservice produtor</p>
 <h1 align="center">
-    <a href="https://kafka.apache.org/">🔗 React</a>
+    <a href="https://kafka.apache.org/">🔗 Kakfa</a>
 </h1>
 <h1 align="center">
-    <a href="https://spring.io/">🔗 React</a>
+    <a href="https://spring.io/">🔗 Spring</a>
 </h1>
 <h2 align="center"> 
 	Running 🚀
