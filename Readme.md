@@ -7,7 +7,7 @@
     <a href="https://spring.io/">🔗 Spring</a>
 </h2>
 <h2 align="left"> 
-	Passo a passo para execução no Windows 🪟 (Para Linux 🐧 executar a partir do 8º passo)
+	Passo a passo para execução no Windows 🪟 (Para Linux 🐧 executar passo 3, e 6º ao 12º passo)
 </h2>
 <p align="left">1º Instale o WSL </p>
 <p align="left">2º Instale o Ubuntu via Microsoft Store</p>
