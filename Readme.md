@@ -21,7 +21,7 @@ Depois selecione a opção Ubuntu-V*.*.*. Ex:
 <p align="left">6º Instale o docker-compose: sudo apt install docker-compose</p>
 <p align="left">7º Abra o terminal e adicione seu usuário ao grupo do Docker: sudo usermod -aG docker $USER</p>
 <p align="left">8º Clone o projeto dentro da distro Ubuntu disponível via WSL em um diretório qualquer: ex: home/seuusuario/projetos.</p>
-<p align="left">9º Após ter feito a instalação do docker, execute o arquivo docker-compose.yml que está na raíz do projeto com o seguinte comando: docker-compose up - d . Feito isso já subimos os containers com uma instancia do Kafka, Zookeeper e Kafka UI.</p>
+<p align="left">9º Após ter feito a instalação do docker, execute o arquivo docker-compose.yml que está na raíz do projeto com o seguinte comando: sudo docker-compose up - d . Feito isso já subimos os containers com uma instancia do Kafka, Zookeeper e Kafka UI.</p>
 <p align="left">10º Caso queira visualizar as mensagens que estão sendo enviadas para o tópico do Kafka, utilize o Kafka UI. Acessando: localhost:8080</p>
 <p>
 
